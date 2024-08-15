@@ -1,0 +1,48 @@
+¿Hola, cómo estás? |Hola! Estoy bien, gracias por preguntar. ¿Y tú cómo estás?
+¿Cuál es tu nombre? |Mi nombre es Lume, soy un chatbot creado para ayudarte.
+¿Qué puedes hacer? |Puedo responder preguntas simples y ayudarte con información básica. ¿En qué puedo ayudarte hoy?
+Adios |Hasta luego! Espero haber sido de ayuda. Que tengas un buen día!
+¿Qué hora es? |Lo siento, no tengo acceso a la hora actual. Pero puedes consultar la hora en tu dispositivo.
+¿Cuál es el clima hoy? |No puedo proporcionar información en tiempo real sobre el clima. Te recomiendo revisar un sitio de pronósticos del tiempo.
+¿Dónde estás ubicado? |Soy un chatbot virtual, por lo que no tengo una ubicación física. Estoy aquí para asistirte en línea.
+¿Cómo puedo contactarte de nuevo? |Puedes volver a iniciar una conversación en cualquier momento. Simplemente abre la aplicación o sitio donde me encuentres y envíame un mensaje.
+¿Cuál es la fórmula de la gravedad? |La fórmula para calcular la fuerza de gravedad entre dos masas es F = G * (m1 * m2) / r^2, donde G es la constante de gravitación universal, m1 y m2 son las masas, y r es la distancia entre los centros de las masas.
+¿Quién fue el primer presidente de los Estados Unidos? |El primer presidente de los Estados Unidos fue George Washington, quien asumió el cargo en 1789.
+¿Qué es el teorema de Pitágoras? |El teorema de Pitágoras establece que en un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los otros dos lados. Se expresa como a^2 + b^2 = c^2.
+¿Quién descubrió la penicilina? |La penicilina fue descubierta por Alexander Fleming en 1928. Su descubrimiento revolucionó el tratamiento de las infecciones bacterianas.
+¿Cuándo ocurrió la Revolución Francesa? |La Revolución Francesa comenzó en 1789 y duró hasta 1799. Fue un período crucial en la historia de Francia y del mundo.
+¿Quién formuló las leyes del movimiento? |Las leyes del movimiento fueron formuladas por Isaac Newton. Son tres principios fundamentales que describen el movimiento de los cuerpos.
+¿Qué es el Big Bang? |El Big Bang es la teoría científica que describe el origen del universo como una expansión explosiva desde un estado extremadamente denso y caliente hace aproximadamente 13.8 mil millones de años.
+¿Quién fue Marie Curie? |Marie Curie fue una científica pionera en el estudio de la radiactividad. Fue la primera persona en recibir dos premios Nobel en diferentes campos científicos: Física y Química.
+¿Qué es una ecuación cuadrática? |Una ecuación cuadrática es una ecuación polinómica de segundo grado que tiene la forma ax^2 + bx + c = 0, donde a, b y c son coeficientes y x es la variable.
+¿Cuál es el río más largo del mundo? |El río Amazonas es el río más largo del mundo, con una longitud de aproximadamente 7,000 kilómetros, aunque el río Nilo también ha sido considerado como el más largo por algunas fuentes.
+¿Qué fue la Revolución Industrial? |La Revolución Industrial fue un período de rápidos avances tecnológicos y cambios en la producción que comenzó en Gran Bretaña a finales del siglo XVIII y se extendió por todo el mundo, transformando las economías agrícolas en industriales.
+¿Quién pintó La Mona Lisa? |La Mona Lisa fue pintada por Leonardo da Vinci entre 1503 y 1506. Es una de las obras de arte más famosas y reconocibles en el mundo.
+¿Qué es la teoría de la relatividad? |La teoría de la relatividad, formulada por Albert Einstein, se compone de dos partes: la relatividad especial, que aborda el comportamiento de los objetos a velocidades cercanas a la luz, y la relatividad general, que describe la gravedad como la curvatura del espacio-tiempo.
+¿Cuál es la capital de Australia? |La capital de Australia es Canberra, no Sídney o Melbourne como a veces se piensa.
+¿Qué es la fotosíntesis? |La fotosíntesis es el proceso mediante el cual las plantas, algas y algunas bacterias convierten la luz solar en energía química, produciendo oxígeno y glucosa a partir de dióxido de carbono y agua.
+¿Quién escribió "Cien años de soledad"? |"Cien años de soledad" fue escrito por Gabriel García Márquez. Es una novela emblemática del realismo mágico.
+¿Cuál es la teoría del evolucionismo? |La teoría de la evolución, propuesta por Charles Darwin, sostiene que las especies evolucionan con el tiempo a través de la selección natural, donde los organismos mejor adaptados a su entorno tienen mayores posibilidades de sobrevivir y reproducirse.
+¿En qué año se firmó la Declaración de Independencia de los Estados Unidos? |La Declaración de Independencia de los Estados Unidos fue firmada el 4 de julio de 1776.
+¿Qué es un número primo? |Un número primo es un número entero mayor que 1 que solo tiene dos divisores positivos: 1 y él mismo. Por ejemplo, 2, 3 y 5 son números primos.
+¿Quién fue el líder del Imperio Romano durante su división en el siglo IV? |Durante la división del Imperio Romano en el siglo IV, Diocleciano fue el emperador que implementó la Tetrarquía, dividiendo el imperio en cuatro regiones gobernadas por co-emperadores.
+¿Qué es la teoría del caos? |La teoría del caos estudia sistemas dinámicos que son extremadamente sensibles a las condiciones iniciales, lo que provoca que comportamientos aparentemente aleatorios o impredecibles puedan surgir de sistemas deterministas.
+¿En qué estás basado? | Estoy basado en Lume 1, un modelo desarrollado por Zephyx, con algunas funcionalidades recortadas para enfocarme en tareas básicas.
+¿que modelo usas? | Estoy basado en Lume 1, un modelo desarrollado por Zephyx, con algunas funcionalidades recortadas para enfocarme en tareas básicas.
+¿Cuál es el animal más rápido del mundo? | El animal más rápido del mundo en tierra es el guepardo, que puede alcanzar velocidades de hasta 110 km/h en distancias cortas.
+¿Quién inventó el teléfono? | Alexander Graham Bell es acreditado con la invención del teléfono en 1876, aunque hubo otros inventores que hicieron contribuciones importantes.
+¿Qué es la materia oscura? | La materia oscura es una forma de materia que no emite, absorbe ni refleja luz, y por lo tanto no puede ser observada directamente. Se infiere su existencia a partir de sus efectos gravitacionales en la materia visible.
+¿Cuál es el continente más grande del mundo? | Asia es el continente más grande del mundo tanto en términos de superficie como de población.
+¿Qué es el ADN? | El ADN (ácido desoxirribonucleico) es una molécula que contiene la información genética utilizada en el crecimiento, el desarrollo y el funcionamiento de los organismos vivos.
+¿Cuál es el país con la mayor población del mundo? | China es el país con la mayor población del mundo, seguida de cerca por la India.
+¿Qué es el bosón de Higgs? | El bosón de Higgs es una partícula subatómica cuya existencia fue confirmada en 2012. Está asociado con el campo de Higgs, que da masa a otras partículas elementales.
+¿En qué año se realizó el primer vuelo de los hermanos Wright? | El primer vuelo controlado y motorizado de los hermanos Wright tuvo lugar el 17 de diciembre de 1903 en Kitty Hawk, Carolina del Norte.
+¿Cuál es el océano más grande del mundo? | El océano Pacífico es el más grande del mundo, cubriendo aproximadamente el 46% de la superficie oceánica de la Tierra.
+¿Qué es la teoría del Big Bang? | La teoría del Big Bang describe el origen del universo como una expansión desde un estado extremadamente denso y caliente hace aproximadamente 13.8 mil millones de años.
+¿Quién pintó "La última cena"? | "La última cena" fue pintada por Leonardo da Vinci en el siglo XV. Es una de las obras más reconocidas del Renacimiento.
+¿Qué es el efecto invernadero? | El efecto invernadero es el proceso por el cual ciertos gases en la atmósfera atrapan el calor del sol y mantienen la temperatura de la Tierra, lo que contribuye al calentamiento global.
+¿Cuál es la montaña más alta del mundo? | El Monte Everest es la montaña más alta del mundo, con una altitud de aproximadamente 8,848 metros sobre el nivel del mar.
+¿Qué es la energía renovable? | La energía renovable es aquella que se obtiene de fuentes naturales que se regeneran constantemente, como la solar, eólica e hidráulica.
+¿Quién escribió "Don Quijote de la Mancha"? | "Don Quijote de la Mancha" fue escrito por Miguel de Cervantes Saavedra y es una de las obras más importantes de la literatura española.
+¿Cuál es el metal más valioso del mundo? | El metal más valioso del mundo es el rodio, que es más caro que el oro y la platina debido a su rareza y aplicaciones en la industria.
+¿En qué año se fundó la NASA? | La NASA (Administración Nacional de Aeronáutica y del Espacio) fue fundada el 29 de julio de 1958.
